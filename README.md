@@ -1,5 +1,5 @@
 # Introdução
-### Utilizando os conceitos de Programação Orientada a Objetos e Estrutura de Dados, nós, o grupo Winx, composto por André, Carlos, Gabriel e Jyan, desenvolvemos um programa em Python que simula um browser, onde se pode pesquisar páginas e suas respectivas páginas internas.
+Utilizando os conceitos de Programação Orientada a Objetos e Estrutura de Dados, nós, o grupo Winx, composto por André, Carlos, Gabriel e Jyan, desenvolvemos um programa em Python que simula um browser, onde se pode pesquisar páginas e suas respectivas páginas internas.
 
 # Imagens
 
