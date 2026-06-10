@@ -7,7 +7,7 @@ Utilizando os conceitos de Programação Orientada a Objetos e Estrutura de Dado
 <img width="478" height="169" alt="Captura de tela de 2026-06-10 16-04-36" src="https://github.com/user-attachments/assets/5fee217a-fdc9-4c16-a8c7-55cee12e7a80" />
 <img width="490" height="205" alt="Captura de tela de 2026-06-10 16-04-14" src="https://github.com/user-attachments/assets/57af25d6-2d3e-497f-8080-7ad681d04127" />
 <img width="487" height="216" alt="Captura de tela de 2026-06-10 16-03-45" src="https://github.com/user-attachments/assets/f80f5976-6ebf-445b-9a66-a44b7fd74f21" />
-<img width="640" height="360" alt="boas-vindas" src="https://github.com/user-attachments/assets/d65bc5b8-52cb-4615-8bf4-b6765a74856a" />
+<img width="487" height="216" alt="boas-vindas" src="https://github.com/user-attachments/assets/d65bc5b8-52cb-4615-8bf4-b6765a74856a" />
 
 # Como funciona
 O programa utiliza duas estruturas de dados principais: **arvore binária** para armazenar as URLs do arquivo-texto e possibilitar o uso de URLs internas e **lista encadeada** para armazenar num histórico as URLs já pesquisadas. 
