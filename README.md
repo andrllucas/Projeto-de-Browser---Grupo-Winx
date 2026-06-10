@@ -1,5 +1,5 @@
 # Introdução
-###Utilizando os conceitos de Programação Orientada a Objetos e Estrutura de Dados, nós, o grupo Winx, composto por André, Carlos, Gabriel e Jyan, desenvolvemos um programa em Python que simula um browser, onde se pode pesquisar páginas e suas respectivas páginas internas.
+### Utilizando os conceitos de Programação Orientada a Objetos e Estrutura de Dados, nós, o grupo Winx, composto por André, Carlos, Gabriel e Jyan, desenvolvemos um programa em Python que simula um browser, onde se pode pesquisar páginas e suas respectivas páginas internas.
 
 # Imagens
 
@@ -28,7 +28,7 @@
 
 
 # Como funciona
-O programa utiliza duas estruturas de dados principais: **arvore binária** para armazenar as URLs do arquivo-texto e possibilitar o uso de URLs internas e **lista encadeada** para armazenar num histórico as URLs já pesquisadas. 
+O programa utiliza duas estruturas de dados principais: **árvore binária** para armazenar as URLs do arquivo-texto e possibilitar o uso de URLs internas e **lista encadeada** para armazenar num histórico as URLs já pesquisadas. 
 
 Ao iniciar o browser, o arquivo-texto é carregado no programa, separado em listas e para cada URL raiz ou principal é instanciada uma árvore, que por sua vez é armazenada numa lista simples chamada banco_de_dados. No caso de URLs internas, o programa procura qual a sua URL 'mãe' e adiciona a URL interna como filha desta.
 
